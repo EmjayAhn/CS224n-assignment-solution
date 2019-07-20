@@ -2,6 +2,7 @@
 ---
 Repository for CS224n Assignments
 ---
-2019.07.20. Assignment1: Exploring Word Vectors - COMPLETED 😀
-Difficulty: ★☆☆☆☆
+Assignment1: Exploring Word Vectors
+- 2019.07.20 COMPLETED 😀
+- Difficulty: ★☆☆☆☆
 
